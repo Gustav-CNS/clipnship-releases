@@ -4,15 +4,15 @@
     "package_type": "windows-binary-v1",
     "platform": "win_amd64",
     "channel": "development",
-    "version": "2.0.31",
-    "download_url": "https://github.com/Gustav-CNS/clipnship-releases/releases/download/v2.0.31/clipnship-v2.0.31-development-win64.cnsenc",
-    "sha256": "2768b93efcfceba64814c35c4b01384fb48be55b11ced55a3b62982216bae896",
-    "size": 310665505,
-    "notes": "v2.0.31 - Encrypted application delivery, authenticated installation and update improvements.",
+    "version": "2.0.32",
+    "download_url": "https://github.com/Gustav-CNS/clipnship-releases/releases/download/v2.0.32/clipnship-v2.0.32-development-win64.cnsenc",
+    "sha256": "578f54cb755eda4e1c84b9b19261a45c236eb4d0b23958c5a08c5fb8b311c345",
+    "size": 310668236,
+    "notes": "Fixed updating issue regarding non-account requests",
     "encryption": {
       "algorithm": "AES-256-GCM",
-      "key_id": "development/2.0.31"
+      "key_id": "development/2.0.32"
     }
   },
-  "signature": "XHC-R7JvHjcShGbMseA1ykVIKZwYwB-ChX_dQqXuCDMlATGHqbaOgNmm4Lvu8EQWc-taWH8sUmXV36eht22EDw"
+  "signature": "139gvMie4kfA8UD62hNfYkAgg4jIIYrZcWXwNF557xP87taFPzQ16czpvYZ6P03vPY_Vv_U-EDY78_uqHHWYCg"
 }
